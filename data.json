@@ -11,23 +11,14 @@
   {
     "id": 2,
     "year": 2005,
-    "title": "FIFA U-20 Golden Ball",
+    "title": "FIFA U-20 Golden Ball & Golden Boot",
     "type": "Individual",
     "team": "Argentina U-20",
-    "achievement": "Awarded the best player of the FIFA U-20 World Cup.",
+    "achievement": "Won both the Best Player and Top Scorer awards at the FIFA U-20 World Cup.",
     "location": "Netherlands"
   },
   {
     "id": 3,
-    "year": 2005,
-    "title": "FIFA U-20 Golden Boot",
-    "type": "Individual",
-    "team": "Argentina U-20",
-    "achievement": "Finished as the top scorer of the FIFA U-20 World Cup.",
-    "location": "Netherlands"
-  },
-  {
-    "id": 4,
     "year": 2008,
     "title": "Olympic Gold Medal",
     "type": "Team",
@@ -36,70 +27,25 @@
     "location": "China"
   },
   {
-    "id": 5,
-    "year": 2009,
-    "title": "UEFA Champions League Champion",
-    "type": "Team",
-    "team": "FC Barcelona",
-    "achievement": "Won the UEFA Champions League.",
-    "location": "Europe"
-  },
-  {
-    "id": 6,
+    "id": 4,
     "year": 2009,
     "title": "Historic Sextuple",
     "type": "Team",
     "team": "FC Barcelona",
-    "achievement": "Won six major trophies in one calendar year.",
+    "achievement": "Won six major trophies in a single calendar year.",
     "location": "Spain"
   },
   {
-    "id": 7,
+    "id": 5,
     "year": 2009,
-    "title": "Ballon d'Or",
+    "title": "First Ballon d'Or",
     "type": "Individual",
     "team": "FC Barcelona",
-    "achievement": "Won his first Ballon d'Or.",
+    "achievement": "Won his first Ballon d'Or as the world's best football player.",
     "location": "France"
   },
   {
-    "id": 8,
-    "year": 2009,
-    "title": "FIFA World Player of the Year",
-    "type": "Individual",
-    "team": "FC Barcelona",
-    "achievement": "Named FIFA World Player of the Year.",
-    "location": "Switzerland"
-  },
-  {
-    "id": 9,
-    "year": 2010,
-    "title": "Ballon d'Or",
-    "type": "Individual",
-    "team": "FC Barcelona",
-    "achievement": "Won his second Ballon d'Or.",
-    "location": "Switzerland"
-  },
-  {
-    "id": 10,
-    "year": 2011,
-    "title": "UEFA Champions League Champion",
-    "type": "Team",
-    "team": "FC Barcelona",
-    "achievement": "Won his third UEFA Champions League title.",
-    "location": "England"
-  },
-  {
-    "id": 11,
-    "year": 2011,
-    "title": "Ballon d'Or",
-    "type": "Individual",
-    "team": "FC Barcelona",
-    "achievement": "Won his third consecutive Ballon d'Or.",
-    "location": "Switzerland"
-  },
-  {
-    "id": 12,
+    "id": 6,
     "year": 2012,
     "title": "91 Goals World Record",
     "type": "Individual",
@@ -108,16 +54,7 @@
     "location": "Spain"
   },
   {
-    "id": 13,
-    "year": 2012,
-    "title": "Ballon d'Or",
-    "type": "Individual",
-    "team": "FC Barcelona",
-    "achievement": "Won his fourth consecutive Ballon d'Or.",
-    "location": "Switzerland"
-  },
-  {
-    "id": 14,
+    "id": 7,
     "year": 2014,
     "title": "FIFA World Cup Golden Ball",
     "type": "Individual",
@@ -126,147 +63,75 @@
     "location": "Brazil"
   },
   {
-    "id": 15,
+    "id": 8,
     "year": 2015,
     "title": "European Treble",
     "type": "Team",
     "team": "FC Barcelona",
-    "achievement": "Won La Liga, Copa del Rey, and UEFA Champions League.",
+    "achievement": "Won La Liga, Copa del Rey, and the UEFA Champions League.",
     "location": "Spain"
   },
   {
-    "id": 16,
-    "year": 2015,
-    "title": "UEFA Champions League Champion",
-    "type": "Team",
-    "team": "FC Barcelona",
-    "achievement": "Won his fourth UEFA Champions League title.",
-    "location": "Germany"
-  },
-  {
-    "id": 17,
-    "year": 2015,
-    "title": "Ballon d'Or",
-    "type": "Individual",
-    "team": "FC Barcelona",
-    "achievement": "Won his fifth Ballon d'Or.",
-    "location": "Switzerland"
-  },
-  {
-    "id": 18,
+    "id": 9,
     "year": 2019,
-    "title": "Ballon d'Or",
+    "title": "Sixth Ballon d'Or",
     "type": "Individual",
     "team": "FC Barcelona",
-    "achievement": "Won his sixth Ballon d'Or.",
+    "achievement": "Won his sixth Ballon d'Or, setting a new record at the time.",
     "location": "France"
   },
   {
-    "id": 19,
-    "year": 2019,
-    "title": "European Golden Shoe",
-    "type": "Individual",
-    "team": "FC Barcelona",
-    "achievement": "Won his sixth European Golden Shoe.",
-    "location": "Europe"
-  },
-  {
-    "id": 20,
+    "id": 10,
     "year": 2021,
     "title": "Copa América Champion",
     "type": "Team",
     "team": "Argentina",
-    "achievement": "Won his first senior international trophy.",
+    "achievement": "Won his first senior international trophy with Argentina.",
     "location": "Brazil"
   },
   {
-    "id": 21,
+    "id": 11,
     "year": 2021,
     "title": "Copa América Golden Ball",
     "type": "Individual",
     "team": "Argentina",
-    "achievement": "Named the best player of the tournament.",
+    "achievement": "Awarded the Best Player of the Copa América tournament.",
     "location": "Brazil"
   },
   {
-    "id": 22,
-    "year": 2021,
-    "title": "Ballon d'Or",
-    "type": "Individual",
-    "team": "Paris Saint-Germain",
-    "achievement": "Won his seventh Ballon d'Or.",
-    "location": "France"
-  },
-  {
-    "id": 23,
-    "year": 2022,
-    "title": "Finalissima Champion",
-    "type": "Team",
-    "team": "Argentina",
-    "achievement": "Defeated Italy to win the Finalissima.",
-    "location": "England"
-  },
-  {
-    "id": 24,
+    "id": 12,
     "year": 2022,
     "title": "FIFA World Cup Champion",
     "type": "Team",
     "team": "Argentina",
-    "achievement": "Captained Argentina to the FIFA World Cup title.",
+    "achievement": "Captained Argentina to win the FIFA World Cup.",
     "location": "Qatar"
   },
   {
-    "id": 25,
+    "id": 13,
     "year": 2022,
     "title": "FIFA World Cup Golden Ball",
     "type": "Individual",
     "team": "Argentina",
-    "achievement": "Awarded the best player of the FIFA World Cup.",
+    "achievement": "Won the Golden Ball as the best player of the FIFA World Cup.",
     "location": "Qatar"
   },
   {
-    "id": 26,
+    "id": 14,
     "year": 2023,
-    "title": "Leagues Cup Champion",
-    "type": "Team",
-    "team": "Inter Miami CF",
-    "achievement": "Led Inter Miami to its first-ever major trophy.",
-    "location": "United States"
-  },
-  {
-    "id": 27,
-    "year": 2023,
-    "title": "Ballon d'Or",
+    "title": "Eighth Ballon d'Or",
     "type": "Individual",
     "team": "Argentina",
-    "achievement": "Won a record eighth Ballon d'Or.",
+    "achievement": "Won a record eighth Ballon d'Or after the World Cup victory.",
     "location": "France"
   },
   {
-    "id": 28,
+    "id": 15,
     "year": 2024,
     "title": "Copa América Champion",
     "type": "Team",
     "team": "Argentina",
-    "achievement": "Won his second Copa América title.",
-    "location": "United States"
-  },
-  {
-    "id": 29,
-    "year": 2024,
-    "title": "MLS Supporters' Shield",
-    "type": "Team",
-    "team": "Inter Miami CF",
-    "achievement": "Helped Inter Miami win its first MLS Supporters' Shield.",
-    "location": "United States"
-  },
-  {
-    "id": 30,
-    "year": 2025,
-    "title": "Inter Miami Club Milestone",
-    "type": "Team",
-    "team": "Inter Miami CF",
-    "achievement": "Continued setting club records as Inter Miami's captain and all-time leading star.",
+    "achievement": "Won his second Copa América title with Argentina.",
     "location": "United States"
   }
 ]
